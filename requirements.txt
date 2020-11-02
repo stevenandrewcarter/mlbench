@@ -1,0 +1,8 @@
+MiniSom
+sklearn
+numpy
+pandas
+matplotlib
+pylab
+tensorflow
+torch
